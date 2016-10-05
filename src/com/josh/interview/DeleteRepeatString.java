@@ -8,7 +8,7 @@ package com.josh.interview;
  * @Description:删除重复字符。声明一个26大小的boolean数组，出现的位置置为true，需要异步转化，把string转化为小写
  * 
  * @author Summer
- * @date 2016年9月13日 下午3:34:24
+ * @date 2016年9月13日 下午3:34:24 
  * 
  */
 public class DeleteRepeatString {
